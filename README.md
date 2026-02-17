@@ -1,7 +1,5 @@
 ## Project Gallery
 
-![challenge-runner](assets/challenge-runner.svg)
-
 | Rank | Project | Power-Up | Impact Meter | Description |
 | :---: | :--- | :--- | :---: | :--- |
 | 🥇 | **[Voyage GEO](https://github.com/Onvoyage-AI/voyage-geo-agent)** | `AI Search Boss` | █████ | Open source GEO CLI to track how ChatGPT, Claude, Gemini, Perplexity, DeepSeek, Grok, and Llama mention your brand. |
