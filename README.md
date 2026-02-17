@@ -8,6 +8,8 @@
 | 🎯 | **[v402 Framework](https://github.com/Onvoyage-AI/v402)** | `Monetization Core` | ████░ | Multi-chain framework for agent-based content monetization on the x402 protocol. |
 | 🚀 | **Voyage AI** | `Growth Platform` | █████ | AI-powered attribution and GEO platform for the decentralized web. |
 
-### Bonus Unlock
-**SINE AI**: An AI powered astrology app used by **200k+ people**  
-https://apps.apple.com/us/app/sine-daily-manifest/id6472605644
+## Consumer Apps
+
+| Rank | App | Category | Users | Link |
+| :---: | :--- | :--- | :---: | :--- |
+| 🌙 | **SINE AI** | `AI Astrology` | **200k+** | [App Store](https://apps.apple.com/us/app/sine-daily-manifest/id6472605644) |
