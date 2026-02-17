@@ -10,6 +10,7 @@
 
 ## Consumer Apps
 
-| Rank | App | Category | Users | Link |
-| :---: | :--- | :--- | :---: | :--- |
-| 🌙 | **SINE AI** | `AI Astrology` | **200k+** | [App Store](https://apps.apple.com/us/app/sine-daily-manifest/id6472605644) |
+| Rank | App | Description | Link |
+| :---: | :--- | :--- | :--- |
+| 🌙 | **SINE AI** | AI powered astrology and tarot card reading app used by **200k+ users**. | [App Store](https://apps.apple.com/us/app/sine-daily-manifest/id6472605644) |
+| 🌌 | **Dreamore** | AI dream interpretation app that helps users understand dream meaning, symbols, and emotional patterns. | [App Store](https://apps.apple.com/us/app/dreamore/id6447442484) |
