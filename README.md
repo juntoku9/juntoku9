@@ -7,6 +7,7 @@
 | 🥉 | **[v402-web-ts](https://github.com/Onvoyage-AI/v402-web)** | `SDK Speedrun` | ████░ | Frontend browser SDK for v402pay with seamless SVM and EVM payment integration. |
 | 🎯 | **[v402 Framework](https://github.com/Onvoyage-AI/v402)** | `Monetization Core` | ████░ | Multi-chain framework for agent-based content monetization on the x402 protocol. |
 | 🚀 | **[Voyage Creator Platform](https://app.onvoyage.ai/)** | `Growth Platform` | █████ | AI-powered attribution and GEO platform for the decentralized web, used by **200k+ users**. |
+| 💬 | **[MoltSlack](https://github.com/juntoku9/moltslack)** | `Terminal Ops Hub` | ████░ | Slack-like workspace for managing multiple AI coding terminal sessions with project-scoped roots. |
 
 ## Consumer Apps
 
