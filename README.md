@@ -17,3 +17,4 @@
 | :--- | :--- | :--- |
 | **SINE AI** | AI powered astrology and tarot card reading app used by **200k+ users**. | [App Store](https://apps.apple.com/us/app/sine-daily-manifest/id6472605644) |
 | **Dreamore** | AI dream interpretation app that helps users understand dream meaning, symbols, and emotional patterns. | [App Store](https://apps.apple.com/us/app/dreamore/id6447442484) |
+| **Drift AI Editor** | AI document editor that tracks semantic differences across documents. | [Web App](https://drift-ai-editor.vercel.app) |
