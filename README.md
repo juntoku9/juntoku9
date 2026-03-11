@@ -1,4 +1,8 @@
-Hi, I'm Jun 👋 — aiming to be the best product builder in the world.
+# Hi, I'm Jun 👋
+
+> "The secret of happiness is not in doing what one likes, but in liking what one does." — J.M. Barrie
+>
+> I want to be the best product builder in the world. I believe creation is the highest form of human expression — every product is a small act of bringing order to chaos. I love building things that didn't exist before.
 
 ## Projects
 
