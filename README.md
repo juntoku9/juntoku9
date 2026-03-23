@@ -7,9 +7,9 @@
 ## Projects
 
 - 📱 [OpenPocket](https://github.com/pockebot/openpocket) – Open source phone use agent that lets AI autonomously operate Android phones via natural language
+- 🚀 [GTM Engineer Skills](https://github.com/onvoyage-ai/gtm-engineer-skills) – GTM-focused skill set for improving website AEO/GEO
 - 🔍 [AEO Audit](https://aeo-audit.sh/) – Audit your site's GEO & AEO readiness — used to audit **10k+ sites**
 - 🛠️ [Improve Website AEO/GEO Skill](https://github.com/onvoyage-ai/improve-website-aeo-geo-skill) – Claude Code skill that audits and fixes your codebase to boost AEO score
-- 🚀 [GTM Engineer Skills](https://github.com/onvoyage-ai/gtm-engineer-skills) – GTM-focused skill set for improving website AEO/GEO
 - 🌍 [Voyage GEO](https://github.com/Onvoyage-AI/voyage-geo-agent) – Open source GEO CLI to track how AI models mention your brand
 - 🔬 [Claude for Crypto Deep Research](https://github.com/juntoku9/claude-for-crypto-research) – AI-driven tool that synthesizes complex crypto market data and whitepapers
 - 💳 [v402-web-ts](https://github.com/Onvoyage-AI/v402-web) – Frontend browser SDK for v402pay with seamless SVM and EVM payment integration
