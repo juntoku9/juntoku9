@@ -6,6 +6,7 @@
 
 ## Projects
 
+- 🧬 [Helix](https://github.com/adrianhihi/helix) – Self-healing infrastructure for AI agent payments with 90.3% auto-recovery
 - 📱 [OpenPocket](https://github.com/pockebot/openpocket) – Open source phone use agent that lets AI autonomously operate Android phones via natural language
 - 🚀 [GTM Engineer Skills](https://github.com/onvoyage-ai/gtm-engineer-skills) – GTM-focused skill set for improving website AEO/GEO
 - ⚖️ [Claude Immigration Attorney](https://github.com/juntoku9/claude_immigration_attorney) – Claude Code skills for immigration attorneys to achieve 100x productivity
