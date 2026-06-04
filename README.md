@@ -6,6 +6,8 @@
 
 ## Projects
 
+- 🧠 [Sessory](https://github.com/juntoku9/Sessory) – Local-first shared memory for AI coding sessions that captures every Claude Code session and turns it into searchable, reusable engineering knowledge
+- 🦀 [Tiny Agent Runtime](https://github.com/juntoku9/tiny-agent-runtime) – Memory-safe Rust AI agent runtime for the edge — one core runs on a $5 microcontroller or a Linux SoC, with a cloud LLM brain and IoT chips as tools
 - 🧰 [Technician AI](https://github.com/AXora009/Technician-AI) – Open-source AI troubleshooting layer that turns manufacturer manuals and field-learned repair knowledge into cited, step-by-step diagnostics
 - 🧬 [Helix](https://github.com/adrianhihi/helix) – Self-healing infrastructure for AI agent payments with 90.3% auto-recovery
 - 🗜️ [LeanCtx](https://github.com/jia-gao/leanctx) – Drop-in prompt compression SDK for production LLM apps that cuts token bills 40-60%
